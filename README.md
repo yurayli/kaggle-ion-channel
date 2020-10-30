@@ -16,7 +16,7 @@ Many features are created and tried including rolling stats (mean, std, quantile
 With correct feature engineering, the models from random forest or GBDT work pretty well. The hyperparamters can be optimized from Bayesian optimizations. When it comes to neural networks, convolution then recurrent network (CRNN) gives a decent result. But finally dilated causal convolution network (TCN or Wavenet) best describes the Markovian signal.
 
 ### Dependencies
-hyperopt 0.2.5
-rapids 0.15.0
-xgboost 1.2.1
-tensorflow 2.2.0
+hyperopt 0.2.5  
+rapids 0.15.0  
+xgboost 1.2.1  
+tensorflow 2.2.0  
